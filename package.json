@@ -1,0 +1,21 @@
+{
+  "name": "json-editor-customization-textarea-as-positive-number-array",
+  "version": "0.1.0",
+  "description": "example of customizing json-editor to convert a textarea string to an array of positive numbers",
+  "main": "main.js",
+  "dependencies": {
+    "json-editor": "^0.7.25",
+    "positive-number-array": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json-editor",
+    "customization",
+    "numeric-array"
+  ],
+  "author": "drpaulbrewer@eaftc.com",
+  "license": "MIT"
+}
